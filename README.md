@@ -21,7 +21,7 @@ To understand basic Spring Boot concepts and project setup.
 ## ▶️ How to Run
 1. Run DemoApplication.java
 2. Open browser:
-   http://localhost:9090/hello
+ http://localhost:8080/hello
 
 ## 📊 Endpoints
 - /hello
